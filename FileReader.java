@@ -4,105 +4,153 @@ import java.util.*;
 import java.io.*;
 
 public class RawReader {
-
+	
+	
 	public Scanner x;
 	public static int count;
 	
-	public static double MPGr;
-	public static double Cylr;
-	public static double DISr;
-	public static double HPr;
-	public static double WEIr;
-	public static double ACCr;
-	public static double YEARr;
-	public static double ORIr;
+	public static double MPG;
+	public static double CYL;
+	public static double DIS;
+	public static double HP;
+	public static double WEI;
+	public static double ACC;
+	public static double YEAR;
+	public static double ORI;
 	
 	public static String MODr;
 	
-	public static double mpgr_count = 0;
-	public static double cylr_count = 0;
-	public static double disr_count = 0;
-	public static double hpr_count = 0;
-	public static double weir_count = 0;
-	public static double accr_count = 0;
-	public static double yearr_count = 0;
-	public static double orir_count = 0;
+	public static double MPG_count = 0;
+	public static double CYL_count = 0;
+	public static double DIS_count = 0;
+	public static double HP_count = 0;
+	public static double WEI_count = 0;
+	public static double ACC_count = 0;
+	public static double YEAR_count = 0;
+	public static double ORI_count = 0;
 	
-	public static LinkedList<Double> mpgr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> cylr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> disr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> hpr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> weir_ll = new LinkedList<Double>();
-	public static LinkedList<Double> accr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> yearr_ll = new LinkedList<Double>();
-	public static LinkedList<Double> orir_ll = new LinkedList<Double>();
+	public static LinkedList<Double> MPG_ll = new LinkedList<Double>();
+	public static LinkedList<Double> CYL_ll = new LinkedList<Double>();
+	public static LinkedList<Double> DIS_ll = new LinkedList<Double>();
+	public static LinkedList<Double> HP_ll = new LinkedList<Double>();
+	public static LinkedList<Double> WEI_ll = new LinkedList<Double>();
+	public static LinkedList<Double> ACC_ll = new LinkedList<Double>();
+	public static LinkedList<Double> YEAR_ll = new LinkedList<Double>();
+	public static LinkedList<Double> ORI_ll = new LinkedList<Double>();
 	
 	public static LinkedList<String> modr_ll = new LinkedList<String>();
 	
 	void printTest(){
 		
-		System.out.println(mpgr_ll);
+		System.out.println("MPG: " + MPG_ll);
+		System.out.println("CYL: " + CYL_ll);
+		System.out.println("DIS: " + DIS_ll);
+		System.out.println("HP: " + HP_ll);
+		System.out.println("WEI: " + WEI_ll);
+		System.out.println("ACC: " + ACC_ll);
+		System.out.println("YEAR: " + YEAR_ll);
+		System.out.println("ORI: " + ORI_ll);
+		
 	}
 	
-	public void removeAll(int i, double b){
-		
-		
-		
+	public void removeAll(String x, double b){
+		System.out.println("mpg count before: " + MPG_count);
+		if( x.equalsIgnoreCase("mpg") || x.equalsIgnoreCase("1") ){
+			for(int i = 0; i < MPG_count; i++){
+				MPG_ll.remove(b);
+				MPG_count--;
+			}
+		} else if(x.equalsIgnoreCase("cyl") || x.equalsIgnoreCase("cylinders") ){
+			for(int i = 0; i < CYL_count; i++){
+				CYL_ll.remove(b);
+				CYL_count--;
+			}
+		}else if(x.equalsIgnoreCase("dis") || x.equalsIgnoreCase("displacement") ){
+			for(int i = 0; i <DIS_count; i++){
+				DIS_ll.remove(b);
+				DIS_count--;
+			}
+		}else if(x.equalsIgnoreCase("hp") || x.equalsIgnoreCase("horsepower")){
+			for(int i = 0; i < HP_count; i++){
+				HP_ll.remove(b);
+				HP_count--;
+			}
+		}else if(x.equalsIgnoreCase("wei") || x.equalsIgnoreCase("weight")){
+			for(int i = 0; i< WEI_count; i++){
+				WEI_ll.remove(b);
+				WEI_count--;
+			}
+		}else if(x.equalsIgnoreCase("acc") || x.equalsIgnoreCase("acceleration")){
+			for(int i =0; i < ACC_count; i++){
+				ACC_ll.remove(b);
+				ACC_count--;
+			}
+		}else if(x.equalsIgnoreCase("year") || x.equalsIgnoreCase("yea")){
+			for(int i = 0; i < YEAR_count; i++){
+				YEAR_ll.remove(b);
+				YEAR_count--;
+			}
+		}else if(x.equalsIgnoreCase("ori") || x.equalsIgnoreCase("origin") || x == "8" ){
+			for(double i = 0; i < ORI_count; i++){
+				ORI_ll.remove(b);
+				ORI_count--;
+			}
+		}
 	}
 	
-	public void addToList(int i, double a){
-		//1=mpg, 2=cyl, 3=dis, 4=hp, 5=wei, 6=acc, 7=year, 8=ori
-		//Adds to LL
-		if(i == 1){
-			mpgr_ll.add((double) a);
+	public void addToList(String x, Double b){
+		// mpg cyl dis hp wei acc year orig
+		if( x.equalsIgnoreCase("mpg") || x.equalsIgnoreCase("1") ){
+				MPG_ll.add(b);
+				MPG_count++;
+		} else if(x.equalsIgnoreCase("cyl") || x.equalsIgnoreCase("cylinders") ){
+				CYL_ll.add(b);
+				CYL_count++;
+		} else if(x.equalsIgnoreCase("dis") || x.equalsIgnoreCase("displacement") ){
+				DIS_ll.add(b);
+				DIS_count++;
+		} else if(x.equalsIgnoreCase("hp") || x.equalsIgnoreCase("horsepower")){
+				HP_ll.add(b);
+				HP_count++;
+		} else if(x.equalsIgnoreCase("wei") || x.equalsIgnoreCase("weight")){
+				WEI_ll.add(b);
+				WEI_count++;
+		} else if(x.equalsIgnoreCase("acc") || x.equalsIgnoreCase("acceleration")){
+				ACC_ll.add(b);
+				ACC_count++;
+		} else if(x.equalsIgnoreCase("year") || x.equalsIgnoreCase("yea")){
+				YEAR_ll.add(b);
+				YEAR_count++;
+		} else if(x.equalsIgnoreCase("ori") || x.equalsIgnoreCase("origin") || x == "8" ){
+				ORI_ll.add(b);
+				ORI_count++;
 		}
-		if(i == 2){
-			cylr_ll.add((double) a);		
-		}
-		if(i == 3){
-			disr_ll.add((double) a);		
-			}
-		if(i == 4){
-			hpr_ll.add((double) a);		
-			}
-		if(i == 5){
-			weir_ll.add((double) a);		
-			}
-		if(i == 6){
-			accr_ll.add((double) a);		
-			}
-		if(i == 7){
-			yearr_ll.add((double) a);		
-			}
-		if(i == 8){
-			orir_ll.add((double) a);		
-			}
-	}
+	}	
 	
 	public void removeFromList(int i, double a){
 		if(i == 1){
-			mpgr_ll.remove((double) a);
+			MPG_ll.remove((double) a);
 		}
 		if(i == 2){
-			cylr_ll.remove((double) a);		
+			CYL_ll.remove((double) a);		
 		}
 		if(i == 3){
-			disr_ll.remove((double) a);		
+			DIS_ll.remove((double) a);		
 			}
 		if(i == 4){
-			hpr_ll.remove((double) a);		
+			HP_ll.remove((double) a);		
 			}
 		if(i == 5){
-			weir_ll.remove((double) a);		
+			WEI_ll.remove((double) a);		
 			}
 		if(i == 6){
-			accr_ll.remove((double) a);		
+			ACC_ll.remove((double) a);		
 			}
 		if(i == 7){
-			yearr_ll.remove((double) a);		
+			YEAR_ll.remove((double) a);		
 			}
 		if(i == 8){
-			orir_ll.remove((double) a);		
+			ORI_ll.remove((double) a);		
 			}
 		
 	}
@@ -131,75 +179,74 @@ public class RawReader {
 		
 	}
 	
-	
 	public void printContents(){
 	//PRINTS UNSORTED LL
 	System.out.println("Number of variables: " + count);	
 		
-	System.out.println("\nMPG Linked List UNSORTED: ");
-	System.out.println(mpgr_ll);
+	System.out.println("\nMPG Linked List: ");
+	System.out.println(MPG_ll);
 	
-	System.out.println("\nCYLINDERS Linked List UNSORTED: ");
-	System.out.println(cylr_ll);
+	System.out.println("\nCYLINDERS Linked List: ");
+	System.out.println(CYL_ll);
 	
-	System.out.println("\nDISPLACEMENT Linked List UNSORTED: ");
-	System.out.println(disr_ll);
+	System.out.println("\nDISPLACEMENT Linked List: ");
+	System.out.println(DIS_ll);
 	
-	System.out.println("\nHorsePower Linked List UNSORTED: ");
-	System.out.println(hpr_ll);
+	System.out.println("\nHorsePower Linked List: ");
+	System.out.println(HP_ll);
 	
-	System.out.println("\nWEIGHT Linked List UNSORTED: ");
-	System.out.println(weir_ll);
+	System.out.println("\nWEIGHT Linked List: ");
+	System.out.println(WEI_ll);
 	
-	System.out.println("\nACCELERATION Linked List UNSORTED: ");
-	System.out.println(accr_ll);
+	System.out.println("\nACCELERATION Linked List: ");
+	System.out.println(ACC_ll);
 	
-	System.out.println("\nYEAR Linked List UNSORTED: ");
-	System.out.println(yearr_ll);
+	System.out.println("\nYEAR Linked List: ");
+	System.out.println(YEAR_ll);
 	
-	System.out.println("\nORIGIN Linked List UNSORTED: ");
-	System.out.println(orir_ll);
+	System.out.println("\nORIGIN Linked List: ");
+	System.out.println(ORI_ll);
 	
 	}
 
 	public void printSorted(){
 	//Prints sorted LL
 	System.out.println("\nMPG Linked List SORTED: ");
-	System.out.println(mpgr_ll);
+	System.out.println(MPG_ll);
 	
 	System.out.println("\nCYLINDERS Linked List SORTED: ");
-	System.out.println(cylr_ll);
+	System.out.println(CYL_ll);
 	
 	System.out.println("\nDISPLACEMENT Linked List SORTED: ");
-	System.out.println(disr_ll);
+	System.out.println(DIS_ll);
 	
 	System.out.println("\nHorsePower Linked List SORTED: ");
-	System.out.println(hpr_ll);
+	System.out.println(HP_ll);
 	
 	System.out.println("\nWEIGHT Linked List SORTED: ");
-	System.out.println(weir_ll);
+	System.out.println(WEI_ll);
 	
 	System.out.println("\nACCELERATION Linked List SORTED: ");
-	System.out.println(accr_ll);
+	System.out.println(ACC_ll);
 	
 	System.out.println("\nYEAR Linked List SORTED: ");
-	System.out.println(yearr_ll);
+	System.out.println(YEAR_ll);
 	
 	System.out.println("\nORIGIN Linked List SORTED: ");
-	System.out.println(orir_ll);
+	System.out.println(ORI_ll);
 	
 }
 
 	public void sortContents(){
 	
-	Collections.sort(mpgr_ll);
-	Collections.sort(cylr_ll);
-	Collections.sort(disr_ll);
-	Collections.sort(hpr_ll);
-	Collections.sort(weir_ll);
-	Collections.sort(accr_ll);
-	Collections.sort(yearr_ll);
-	Collections.sort(orir_ll);
+	Collections.sort(MPG_ll);
+	Collections.sort(CYL_ll);
+	Collections.sort(DIS_ll);
+	Collections.sort(HP_ll);
+	Collections.sort(WEI_ll);
+	Collections.sort(ACC_ll);
+	Collections.sort(YEAR_ll);
+	Collections.sort(ORI_ll);
 	
 }
 
@@ -219,67 +266,67 @@ public class RawReader {
 			
 			//MPG
 			String a = x.next();				// Takes first sequence and adds as string(a)
-			MPGr = Double.parseDouble(a);		// Converts MPG String to double
-			//System.out.println(MPGr);			// PRINTS to ensure reading correctly
-			mpgr_ll.add(MPGr);					// Adds converted MPG to LL
-			mpgr_count++;						// Adds to a count for every MPG instance
-			MPGr = 0;							// Resets Db back to 0
+			MPG = Double.parseDouble(a);		// Converts MPG String to double
+			//System.out.println(MPG);			// PRINTS to ensure reading correctly
+			MPG_ll.add(MPG);					// Adds converted MPG to LL
+			MPG_count++;						// Adds to a count for every MPG instance
+			MPG = 0;							// Resets Db back to 0
 
 			//CYL
 			String b = x.next();
-			Cylr = Double.parseDouble(b);
-			//System.out.println(Cylr);
-			cylr_ll.add(Cylr);
-			cylr_count++;
-			Cylr = 0;
+			CYL = Double.parseDouble(b);
+			//System.out.println(CYL);
+			CYL_ll.add(CYL);
+			CYL_count++;
+			CYL = 0;
 			
 			//DIS
 			String c = x.next();
-			DISr = Double.parseDouble(c);
-			//System.out.println(DISr);
-			disr_ll.add(DISr);
-			disr_count++;
-			DISr = 0;
+			DIS = Double.parseDouble(c);
+			//System.out.println(DIS);
+			DIS_ll.add(DIS);
+			DIS_count++;
+			DIS = 0;
 			
 			//HP
 			String d = x.next();
-			HPr = Double.parseDouble(d);
-			//System.out.println(HPr);
-			hpr_ll.add(HPr);
-			hpr_count++;
-			HPr = 0;
+			HP = Double.parseDouble(d);
+			//System.out.println(HP);
+			HP_ll.add(HP);
+			HP_count++;
+			HP = 0;
 			
 			//WEI
 			String e = x.next();
-			WEIr = Double.parseDouble(e);
-			//System.out.println(WEIr);
-			weir_ll.add(WEIr);
-			weir_count++;
-			WEIr = 0;
+			WEI = Double.parseDouble(e);
+			//System.out.println(WEI);
+			WEI_ll.add(WEI);
+			WEI_count++;
+			WEI = 0;
 			
 			//ACC
 			String f = x.next();
-			ACCr = Double.parseDouble(f);
-			//System.out.println(ACCr);
-			accr_ll.add(ACCr);
-			accr_count++;
-			ACCr = 0;
+			ACC = Double.parseDouble(f);
+			//System.out.println(ACC);
+			ACC_ll.add(ACC);
+			ACC_count++;
+			ACC = 0;
 			
 			//YEAR
 			String g = x.next();
-			YEARr = Double.parseDouble(g);
-			//System.out.println(YEARr);
-			yearr_ll.add(YEARr);
-			yearr_count++;
-			YEARr = 0;
+			YEAR = Double.parseDouble(g);
+			//System.out.println(YEAR);
+			YEAR_ll.add(YEAR);
+			YEAR_count++;
+			YEAR = 0;
 			
 			//ORI
 			String h = x.next();;
-			ORIr = Double.parseDouble(h);
-			//System.out.println(ORIr);
-			orir_ll.add(ORIr);
-			orir_count++;
-			ORIr = 0;
+			ORI = Double.parseDouble(h);
+			//System.out.println(ORI);
+			ORI_ll.add(ORI);
+			ORI_count++;
+			ORI = 0;
 			
 			//MODEL
 			//String i = x.next();
