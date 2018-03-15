@@ -40,6 +40,18 @@ public class RawReader {
 	
 	public static LinkedList<String> modr_ll = new LinkedList<String>();
 	
+	public static void main(String[] args) {
+		
+		RawReader s = new RawReader();
+		
+		s.openFile();
+		s.readFile();
+		s.closeFile();
+		
+		s.printTest();
+	
+	}
+	
 	void printTest(){
 		
 		System.out.println("MPG: " + MPG_ll);
@@ -50,6 +62,23 @@ public class RawReader {
 		System.out.println("ACC: " + ACC_ll);
 		System.out.println("YEAR: " + YEAR_ll);
 		System.out.println("ORI: " + ORI_ll);
+		System.out.println("Total Count: " + count);
+		
+		System.out.println("MPG: " + MPG_count);
+		System.out.println("CYL: " + CYL_count);
+		System.out.println("DIS: " + DIS_count);
+		System.out.println("HP: " + HP_count);
+		System.out.println("WEI: " + WEI_count);
+		System.out.println("ACC: " + ACC_count);
+		System.out.println("YEAR: " + YEAR_count);
+		System.out.println("ORI: " + ORI_count);
+				
+		
+	}
+	
+	public void findAvg(){
+		
+		
 		
 	}
 	
@@ -154,13 +183,32 @@ public class RawReader {
 			}
 		
 	}
-	
-	void bubbleSort(){
+	/*
+	public void bubbleSort()
+    {
+         for(int sort=1;sort<MPG_ll.size();sort++)
+         {
+             singleSort(MPG_ll);
+         }
+    }
 		
-		//TODO
-		
-	}
+	public void singleSort(LinkedList MPG)
+    {
+        for(int item=0;item<MPG_ll.size()-1;item++)
+        {
+             Double left=(Double)MPG_ll.get(item);
+             Double right=(Double)MPG_ll.get(item+1);
+            if(left.intValue() > right.intValue()) swap(MPG_ll, item+1);
+        }
+    }		
 	
+		public void swap(int right_index)
+	    {
+	         Double right=MPG_ll.remove(right_index);
+	         MPG_ll.add(right_index-1,right);
+	    }
+	    
+	    */
 	void mergeSort(){
 		
 		//TODO
@@ -267,73 +315,65 @@ public class RawReader {
 			//MPG
 			String a = x.next();				// Takes first sequence and adds as string(a)
 			MPG = Double.parseDouble(a);		// Converts MPG String to double
-			//System.out.println(MPG);			// PRINTS to ensure reading correctly
 			MPG_ll.add(MPG);					// Adds converted MPG to LL
 			MPG_count++;						// Adds to a count for every MPG instance
 			MPG = 0;							// Resets Db back to 0
+			count++;
 
 			//CYL
 			String b = x.next();
 			CYL = Double.parseDouble(b);
-			//System.out.println(CYL);
 			CYL_ll.add(CYL);
 			CYL_count++;
 			CYL = 0;
-			
+			count++;
+
 			//DIS
 			String c = x.next();
 			DIS = Double.parseDouble(c);
-			//System.out.println(DIS);
 			DIS_ll.add(DIS);
 			DIS_count++;
 			DIS = 0;
-			
+			count++;
+
 			//HP
 			String d = x.next();
 			HP = Double.parseDouble(d);
-			//System.out.println(HP);
 			HP_ll.add(HP);
 			HP_count++;
 			HP = 0;
-			
+			count++;
+
 			//WEI
 			String e = x.next();
 			WEI = Double.parseDouble(e);
-			//System.out.println(WEI);
 			WEI_ll.add(WEI);
 			WEI_count++;
 			WEI = 0;
-			
+			count++;
+
 			//ACC
 			String f = x.next();
 			ACC = Double.parseDouble(f);
-			//System.out.println(ACC);
 			ACC_ll.add(ACC);
 			ACC_count++;
 			ACC = 0;
-			
+			count++;
+
 			//YEAR
 			String g = x.next();
 			YEAR = Double.parseDouble(g);
-			//System.out.println(YEAR);
 			YEAR_ll.add(YEAR);
 			YEAR_count++;
 			YEAR = 0;
-			
+			count++;
+
 			//ORI
 			String h = x.next();;
 			ORI = Double.parseDouble(h);
-			//System.out.println(ORI);
 			ORI_ll.add(ORI);
 			ORI_count++;
 			ORI = 0;
-			
-			//MODEL
-			//String i = x.next();
-			//System.out.println(i);
-			//modr_ll.add(i);
-						
-			//Error check
 			count++;
 			
 		}	
