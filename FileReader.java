@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class RawReader {
-	//ninjxdrake 
+	
 	
 	public Scanner x;
 	public static int count;
@@ -48,8 +48,13 @@ public class RawReader {
 		s.readFile();
 		s.closeFile();
 		
-		s.printTest();
-	
+
+		s.findValues();
+		
+		
+		
+		
+		
 	}
 	
 	void printTest(){
@@ -76,9 +81,19 @@ public class RawReader {
 		
 	}
 	
-	public void findAvg(){
+	public void findValues(){
 		
+		int multi =0; 
 		
+		for(Double mpg : MPG_ll){
+			
+			if(mpg == 18){
+				multi++;
+			}
+			
+		}
+	
+		System.out.println("number of values: " + multi);
 		
 	}
 	
