@@ -28,6 +28,9 @@ public class DataSort {
 	public static int YEAR_count = 0;
 	public static int ORI_count = 0;
 	
+	public static int CAR_count =  0;
+	public static int modelCC = 0;
+	
 	public static LinkedList<Integer> MPG_ll = new LinkedList<Integer>();
 	public static LinkedList<Integer> CYL_ll = new LinkedList<Integer>();
 	public static LinkedList<Integer> DIS_ll = new LinkedList<Integer>();
@@ -37,24 +40,21 @@ public class DataSort {
 	public static LinkedList<Integer> YEAR_ll = new LinkedList<Integer>();
 	public static LinkedList<Integer> ORI_ll = new LinkedList<Integer>();
 	
-	public static LinkedList<String> modr_ll = new LinkedList<String>();
+	public static LinkedList<String> CAR = new LinkedList<String>();
+	public static LinkedList<String> MODEL = new LinkedList<String>();
 	
 	public static void main(String[] args) {
 		
 		DataSort s = new DataSort();
 		
-		s.openFile();
-		s.readFile();
+		s.openMakeModel();
+		s.readMakeModel();
 		s.closeFile();
 		
-		s.sortContents();
+		System.out.println(CAR);
 		
-		s.findNumValues("mpg", 20);
-		s.binarySearchForValue(20);
-		s.binarySearchForValue(21);
-		
-		
-		
+				
+		s.findMakes("chevrolet-impala");
 		
 		
 	}
@@ -80,6 +80,18 @@ public class DataSort {
 		System.out.println("YEAR: " + YEAR_count);
 		System.out.println("ORI: " + ORI_count);
 				
+		
+	}
+	
+	void printMAkeModel() {
+		
+		for(String make : CAR) {
+			//System.out.println("-----------------");
+			System.out.println("|" + make + "|");
+			
+		}
+			
+		
 		
 	}
 	
@@ -114,6 +126,20 @@ public void swapValues(int indexOne, int indexTwo){
 		MPG_ll.get(indexTwo);
 		MPG_ll.set(indexOne, indexTwo);
 		MPG_ll.set(indexTwo, temp);	
+	}
+
+	public void findMakes(String x) {
+		
+		int numMake = 0;
+		
+			for(String make : CAR) {
+				if(make.contains(x)) {
+					System.out.println("-|" + make + "|-");
+					numMake++;
+				} 
+			} 
+		System.out.println("Num of Cars: " + numMake);
+		
 	}
 	
 	public void findNumValues(String x, int b){
@@ -368,9 +394,34 @@ public void swapValues(int indexOne, int indexTwo){
 	Collections.sort(ACC_ll);
 	Collections.sort(YEAR_ll);
 	Collections.sort(ORI_ll);
+	Collections.sort(CAR);	
+	
 	
 }
 
+	public void openMakeModel() {
+		
+		try{
+			x = new Scanner(new File("AllData"));
+			
+		}catch(Exception e){
+			System.out.println("Could not find File");
+		}	
+	}
+	
+	public void readMakeModel() {
+		
+		while(x.hasNext()) {
+		
+		String a = x.next();
+		CAR.add(a);
+		CAR_count++;
+
+		
+		}
+	}
+		
+	
 	public void openFile(){
 		
 		try{
