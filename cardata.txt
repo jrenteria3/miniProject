@@ -1,311 +1,398 @@
-18   8   307      130      3504      12   70  1	
-15   8   350      165      3693      11   70  1	  
-18   8   318      150      3436      11   70  1	
-16   8   304      150      3433      12   70  1	
-17   8   302      140      3449      10   70  1	
-15   8   429      198      4341      10   70  1	  
-14   8   454      220      4354       9   70  1	
-14   8   440      215      4312       8   70  1	
-14   8   455      225      4425      10   70  1	
-15   8   390      190      3850       8   70  1	
-15   8   383      170      3563      10   70  1	
-14   8   340      160      3609       8   70  1	 
-15   8   400      150      3761       9   70  1	
-14   8   455      225      3086      10   70  1	   
-24   4   113      950      2372      15   70  3	
-22   6   198      950      2833      15   70  1	
-18   6   199      970      2774      15   70  1	
-21   6   200      850      2587      16   70  1	
-27   4   970      880      2130      14   70  3	 
-26   4   970      460      1835      20   70  2	   
-25   4   110      870      2672      17   70  2	 
-24   4   107      900      2430      14   70  2	  
-25   4   104      950      2375      17   70  2	 
-26   4   121      113      2234      12   70  2	 
-21   6   199      900      2648      15   70  1	
-10   8   360      215      4615      14   70  1	 
-10   8   307      200      4376      15   70  1	 
-11   8   318      210      4382      13   70  1	 
-9    8   304      193      4732      18   70  1	 
-27   4   970      880      2130      14   71  3	 
-28   4   140      900      2264      15   71  1	  
-25   4   113      950      2228      14   71  3	
-25   4   980      0        2046      19   71  1	
-19   6   232      100      2634      13   71  1	
-16   6   225      105      3439      15   71  1	
-17   6   250      100      3329      15   71  1	
-19   6   250      880      3302      15   71  1	
-18   6   232      100      3288      15   71  1	
-14   8   350      165      4209      12   71  1	
-14   8   400      175      4464      11   71  1	
-14   8   351      153      4154      13   71  1	  
-14   8   318      150      4096      13   71  1	
-12   8   383      180      4955      11   71  1	  
-13   8   400      170      4746      12   71  1	   
-13   8   400      175      5140      12   71  1	  
-18   6   258      110      2962      13   71  1	   
-22   4   140      720      2408      19   71  1	  
-19   6   250      100      3282      15   71  1	
-18   6   250      880      3139      14   71  1	
-23   4   122      860      2220      14   71  1	  
-28   4   116      900      2123      14   71  2	 
-30   4   790      700      2074      19   71  2	 
-30   4   880      760      2065      14   71  2	 
-31   4   710      650      1773      19   71  3	  
-35   4   720      690      1613      18   71  3	 
-27   4   970      600      1834      19   71  2	  
-26   4   910      700      1955      20   71  1	
-24   4   113      950      2278      15   72  3	
-25   4   970      800      2126      17   72  1	
-23   4   970      540      2254      23   72  2	  
-20   4   140      900      2408      19   72  1	
-21   4   122      860      2226      16   72  1	
-13   8   350      165      4274      12   72  1	
-14   8   400      175      4385      12   72  1	
-15   8   318      150      4135      13   72  1	
-14   8   351      153      4129      13   72  1	  
-17   8   304      150      3672      11   72  1	
-11   8   429      208      4633      11   72  1	
-13   8   350      155      4502      13   72  1	
-12   8   350      160      4456      13   72  1	   
-13   8   400      190      4422      12   72  1	
-19   3   700      970      2330      13   72  3	  
-15   8   304      150      3892      12   72  1	  
-13   8   307      130      4098      14   72  1	   
-13   8   302      140      4294      16   72  1	   
-14   8   318      150      4077      14   72  1	   
-18   4   121      112      2933      14   72  2	  
-22   4   121      760      2511      18   72  2	  
-21   4   120      870      2979      19   72  2	  
-26   4   960      690      2189      18   72  2	  
-22   4   122      860      2395      16   72  1	  
-28   4   970      920      2288      17   72  3	  
-23   4   120      970      2506      14   72  3	    
-28   4   980      800      2164      15   72  1	  
-27   4   970      880      2100      16   72  3	   
-13   8   350      175      4100      13   73  1	  
-14   8   304      150      3672      11   73  1	
-13   8   350      145      3988      13   73  1	
-14   8   302      137      4042      14   73  1	
-15   8   318      150      3777      12   73  1	
-12   8   429      198      4952      11   73  1	
-13   8   400      150      4464      12   73  1	
-13   8   351      158      4363      13   73  1	
-14   8   318      150      4237      14   73  1	
-13   8   440      215      4735      11   73  1	
-12   8   455      225      4951      11   73  1	   
-13   8   360      175      3821      11   73  1	
-18   6   225      105      3121      16   73  1	
-16   6   250      100      3278      18   73  1	
-18   6   232      100      2945      16   73  1	
-18   6   250      880      3021      16   73  1	
-23   6   198      950      2904      16   73  1	
-26   4   970      460      1950      21   73  2	
-11   8   400      150      4997      14   73  1	
-12   8   400      167      4906      12   73  1	
-13   8   360      170      4654      13   73  1	
-12   8   350      180      4499      12   73  1	
-18   6   232      100      2789      15   73  1	
-20   4   970      880      2279      19   73  3	
-21   4   140      720      2401      19   73  1	
-22   4   108      940      2379      16   73  3	 
-18   3   700      900      2124      13   73  3	 
-19   4   122      850      2310      18   73  1	
-21   6   155      107      2472      14   73  1	  
-26   4   980      900      2265      15   73  2	   
-15   8   350      145      4082      13   73  1	
-16   8   400      230      4278      90   73  1	
-29   4   680      490      1867      19   73  2	 
-24   4   116      750      2158      15   73  2	
-20   4   114      910      2582      14   73  2	 
-19   4   121      112      2868      15   73  2	 
-15   8   318      150      3399      11   73  1	
-24   4   121      110      2660      14   73  2	
-20   6   156      122      2807      13   73  3	
-11   8   350      180      3664      11   73  1	
-20   6   198      950      3102      16   74  1	
-21   6   200      0          2875      17   74  1	
-19   6   232      100      2901      16   74  1	
-15   6   250      100      3336      17   74  1	
-31   4   790      670      1950      19   74  3	 
-26   4   122      800      2451      16   74  1	
-32   4   710      650      1836      21   74  3	  
-25   4   140      750      2542      17   74  1	
-16   6   250      100      3781      17   74  1	
-16   6   258      110      3632      18   74  1	
-18   6   225      105      3613      16   74  1	
-16   8   302      140      4141      14   74  1	
-13   8   350      150      4699      14   74  1	   
-14   8   318      150      4457      13   74  1	   
-14   8   302      140      4638      16   74  1	   
-14   8   304      150      4257      15   74  1	  
-29   4   980      830      2219      16   74  2	
-26   4   790      670      1963      15   74  2	
-26   4   970      780      2300      14   74  2	
-31   4   760      520      1649      16   74  3	
-32   4   830      610      2003      19   74  3	 
-28   4   900      750      2125      14   74  1	
-24   4   900      750      2108      15   74  2	 
-26   4   116      750      2246      14   74  2	  
-24   4   120      970      2489      15   74  3	
-26   4   108      930      2391      15   74  3	
-31   4   790      670      2000      16   74  2	 
-19   6   225      950      3264      16   75  1	
-18   6   250      105      3459      16   75  1	
-15   6   250      720      3432      21   75  1	
-15   6   250      720      3158      19   75  1	
-16   8   400      170      4668      11   75  1	
-15   8   350      145      4440      14   75  1	
-16   8   318      150      4498      14   75  1	
-14   8   351      148      4657      13   75  1	
-17   6   231      110      3907      21   75  1	
-16   6   250      105      3897      18   75  1	
-15   6   258      110      3730      19   75  1	
-18   6   225      950      3785      19   75  1	
-21   6   231      110      3039      15   75  1	
-20   8   262      110      3221      13   75  1	  
-13   8   302      129      3169      12   75  1	
-29   4   970      750      2171      16   75  3	
-23   4   140      830      2639      17   75  1	
-20   6   232      100      2914      16   75  1	
-23   4   140      780      2592      18   75  1	
-24   4   134      960      2702      13   75  3	
-25   4   900      710      2223      16   75  2	
-24   4   119      970      2545      17   75  3	 
-18   6   171      970      2984      14   75  1	
-29   4   900      700      1937      14   75  2	
-19   6   232      900      3211      17   75  1	
-23   4   115      950      2694      15   75  2	 
-23   4   120      880      2957      17   75  2	 
-22   4   121      980      2945      14   75  2	 
-25   4   121      115      2671      13   75  2	 
-33   4   910      530      1795      17   75  3	
-28   4   107      860      2464      15   76  2	 
-25   4   116      810      2220      16   76  2	 
-25   4   140      920      2572      14   76  1	
-26   4   980      790      2255      17   76  1	
-27   4   101      830      2202      15   76  2	 
-17   8   305      140      4215      13   76  1	
-16   8   318      150      4190      13   76  1	
-15   8   304      120      3962      13   76  1	
-14   8   351      152      4215      12   76  1	
-22   6   225      100      3233      15   76  1	
-22   6   250      105      3353      14   76  1	
-24   6   200      810      3012      17   76  1	
-22   6   232      900      3085      17   76  1	
-29   4   850      520      2035      22   76  1	
-24   4   980      600      2164      22   76  1	
-29   4   900      700      1937      14   76  2	
-33   4   910      530      1795      17   76  3	
-20   6   225      100      3651      17   76  1	
-18   6   250      780      3574      21   76  1	
-18   6   250      110      3645      16   76  1	
-17   6   258      950      3193      17   76  1	  
-29   4   970      710      1825      12   76  2	
-32   4   850      700      1990      17   76  3	
-28   4   970      750      2155      16   76  3	
-26   4   140      720      2565      13   76  1	
-20   4   130      102      3150      15   76  2	 
-13   8   318      150      3940      13   76  1	   
-19   4   120      880      3270      21   76  2	 
-19   6   156      108      2930      15   76  3	
-16   6   168      120      3820      16   76  2	
-16   8   350      180      4380      12   76  1	
-13   8   350      145      4055      12   76  1	 
-13   8   302      130      3870      15   76  1	 
-13   8   318      150      3755      14   76  1	 
-31   4   980      680      2045      18   77  3	
-30   4   111      800      2155      14   77  1	
-36   4   790      580      1825      18   77  2	  
-25   4   122      960      2300      15   77  1	
-33   4   850      700      1945      16   77  3	  
-17   8   305      145      3880      12   77  1	
-17   8   260      110      4060      19   77  1	
-15   8   318      145      4140      13   77  1	
-15   8   302      130      4295      14   77  1	
-17   6   250      110      3520      16   77  1	
-20   6   231      105      3425      16   77  1	
-19   6   225      100      3630      17   77  1	
-18   6   250      980      3525      19   77  1	
-16   8   400      180      4220      11   77  1	
-15   8   350      170      4165      11   77  1	
-15   8   400      190      4325      12   77  1	
-16   8   351      149      4335      14   77  1	
-29   4   970      780      1940      14   77  2	
-24   4   151      880      2740      16   77  1	
-26   4   970      750      2265      18   77  3	
-25   4   140      890      2755      15   77  1	   
-30   4   980      630      2051      17   77  1	
-33   4   980      830      2075      15   77  1	  
-30   4   970      670      1985      16   77  3	
-30   4   970      780      2190      14   77  2	
-22   6   146      970      2815      14   77  3	 
-21   4   121      110      2600      12   77  2	 
-21   3   800      110      2720      13   77  3	 
-43   4   900      480      1985      21   78  2	
-36   4   980      660      1800      14   78  1	
-32   4   780      520      1985      19   78  3	
-39   4   850      700      2070      18   78  3	  
-36   4   910      600      1800      16   78  3	
-19   8   260      110      3365      15   78  1	
-19   8   318      140      3735      13   78  1	
-20   8   302      139      3570      12   78  1	
-19   6   231      105      3535      19   78  1	
-20   6   200      950      3155      18   78  1	
-20   6   200      850      2965      15   78  1	  
-25   4   140      880      2720      15   78  1	  
-20   6   225      100      3430      17   78  1	
-19   6   232      900      3210      17   78  1	
-20   6   231      105      3380      15   78  1	
-20   6   200      850      3070      16   78  1	
-18   6   225      110      3620      18   78  1	
-18   6   258      120      3410      15   78  1	  
-19   8   305      145      3425      13   78  1	
-17   6   231      165      3445      13   78  1	    
-18   8   302      139      3205      11   78  1	
-17   8   318      140      4080      13   78  1	
-30   4   980      680      2155      16   78  1	
-27   4   134      950      2560      14   78  3	
-27   4   119      970      2300      14   78  3	 
-30   4   105      750      2230      14   78  1	
-21   4   134      950      2515      14   78  3	
-23   4   156      105      2745      16   78  1	
-23   4   151      850      2855      17   78  1	
-23   4   119      970      2405      14   78  3	 
-20   5   131      103      2830      15   78  2	 
-17   6   163      125      3140      13   78  2	 
-21   4   121      115      2795      15   78  2	 
-16   6   163      133      3410      15   78  2	 
-31   4   890      710      1990      14   78  2	
-29   4   980      680      2135      16   78  3	
-21   6   231      115      3245      15   79  1	  
-19   6   200      850      2990      18   79  1	  
-22   4   140      880      2890      17   79  1	  
-20   6   232      900      3265      18   79  1	   
-20   6   225      110      3360      16   79  1	  
-17   8   305      130      3840      15   79  1	
-17   8   302      129      3725      13   79  1	
-16   8   351      138      3955      13   79  1	
-18   8   318      135      3830      15   79  1	  
-16   8   350      155      4360      14   79  1	   
-15   8   351      142      4054      14   79  1	   
-19   8   267      125      3605      15   79  1	   
-18   8   360      150      3940      13   79  1	     
-31   4   890      710      1925      14   79  2	
-34   4   860      650      1975      15   79  3	
-35   4   980      800      1915      14   79  1	
-27   4   121      800      2670      15   79  1	
-25   5   183      770      3530      20   79  2	  
-23   8   350      125      3900      17   79  1	
-27   4   141      710      3190      24   79  2	 
-23   8   260      900      3420      22   79  1	
-34   4   105      700      2200      13   79  1	
-34   4   105      700      2150      14   79  1	  
-31   4   850      650      2020      19   79  3	 
-37   4   910      690      2130      14   79  2	
-28   4   151      900      2670      16   79  1	
-28   6   173      115      2595      11   79  1	
-26   6   173      115      2700      12   79  1	
-33   4   151      900      2556      13   79  1	
-41   4   980      760      2144      14   80  2	
-38   4   890      600      1968      18   80  3
+MPG:18/Cyl:8/Dis:307/HP:130/Lbs:3504/ACC:12/Year:70/Car:chevrolet-chevelle
+MPG:15/Cyl:8/Dis:350/HP:165/Lbs:3693/ACC:11.5/Year:70/Car:buick-skylark
+MPG:18/Cyl:8/Dis:318/HP:150/Lbs:3436/ACC:11/Year:70/Car:plymouth-satellite 
+MPG:16/Cyl:8/Dis:304/HP:150/Lbs:3433/ACC:12/Year:70/Car:amc-rebel
+MPG:17/Cyl:8/Dis:302/HP:140/Lbs:3449/ACC:10.5/Year:70/Car:ford-torino 
+MPG:15/Cyl:8/Dis:429/HP:198/Lbs:4341/ACC:10/Year:70/Car:ford-galaxie
+MPG:14/Cyl:8/Dis:454/HP:220/Lbs:4354/ACC:9/Year:70/Car:chevrolet-impala 
+MPG:14/Cyl:8/Dis:440/HP:215/Lbs:4312/ACC:8.5/Year:70/Car:plymouth-fury
+MPG:14/Cyl:8/Dis:455/HP:225/Lbs:4425/ACC:10/Year:70/Car:pontiac-catalina 
+MPG:15/Cyl:8/Dis:390/HP:190/Lbs:3850/ACC:8.5/Year:70/Car:amc-ambassador
+MPG:15/Cyl:8/Dis:383/HP:170/Lbs:3563/ACC:10/Year:70/Car:dodge-challenger
+MPG:14/Cyl:8/Dis:340/HP:160/Lbs:3609/ACC:8/Year:70/Car:plymouth-'cuda
+MPG:15/Cyl:8/Dis:400/HP:150/Lbs:3761/ACC:9.5/Year:70/Car:chevrolet-monte
+MPG:14/Cyl:8/Dis:455/HP:225/Lbs:3086/ACC:10/Year:70/Car:buick-estate
+MPG:24/Cyl:4/Dis:113/HP:95/Lbs:2372/ACC:15/Year:70/Car:toyota-corona
+MPG:22/Cyl:6/Dis:198/HP:95/Lbs:2833/ACC:15.5/Year:70/Car:plymouth-duster 
+MPG:18/Cyl:6/Dis:199/HP:97/Lbs:2774/ACC:15.5/Year:70/Car:amc-hornet 
+MPG:21/Cyl:6/Dis:200/HP:85/Lbs:2587/ACC:16/Year:70/Car:ford-maverick 
+MPG:27/Cyl:4/Dis:97/HP:88/Lbs:2130/ACC:14.5/Year:70/Car:datsun-pl510 
+MPG:26/Cyl:4/Dis:97/HP:46/Lbs:1835/ACC:20.5/Year:70/Car:volkswagen-1131
+MPG:25/Cyl:4/Dis:110/HP:87/Lbs:2672/ACC:17.5/Year:70/Car:peugeot-504
+MPG:24/Cyl:4/Dis:107/HP:90/Lbs:2430/ACC:14.5/Year:70/Car:audi-100
+MPG:25/Cyl:4/Dis:104/HP:95/Lbs:2375/ACC:17.5/Year:70/Car:saab-99e 
+MPG:26/Cyl:4/Dis:121/HP:113/Lbs:2234/ACC:12.5/Year:70/Car:bmw-2002
+MPG:21/Cyl:6/Dis:199/HP:90/Lbs:2648/ACC:15/Year:70/Car:amc-gremlin 
+MPG:10/Cyl:8/Dis:360/HP:215/Lbs:4615/ACC:14/Year:70/Car:ford-f250 
+MPG:10/Cyl:8/Dis:307/HP:200/Lbs:4376/ACC:15/Year:70/Car:chevy-c20 
+MPG:11/Cyl:8/Dis:318/HP:210/Lbs:4382/ACC:13.5/Year:70/Car:dodge-d200 
+MPG:9/Cyl:8/Dis:304/HP:193/Lbs:4732/ACC:18.5/Year:70/Car:hi-1200d 
+MPG:27/Cyl:4/Dis:97/HP:88/Lbs:2130/ACC:14.5/Year:71/Car:datsun-pl510 
+MPG:28/Cyl:4/Dis:140/HP:90/Lbs:2264/ACC:15.5/Year:71/Car:chevrolet-vega
+MPG:25/Cyl:4/Dis:113/HP:95/Lbs:2228/ACC:14/Year:71/Car:toyota-corona 
+MPG:25/Cyl:4/Dis:98/HP:0/Lbs:2046/ACC:19/Year:71/Car:ford-pinto 
+MPG:19/Cyl:6/Dis:232/HP:100/Lbs:2634/ACC:13/Year:71/Car:amc-gremlin 
+MPG:16/Cyl:6/Dis:225/HP:105/Lbs:3439/ACC:15.5/Year:71/Car:plymouth-satellite
+MPG:17/Cyl:6/Dis:250/HP:100/Lbs:3329/ACC:15.5/Year:71/Car:chevrolet-chevelle
+MPG:19/Cyl:6/Dis:250/HP:88/Lbs:3302/ACC:15.5/Year:71/Car:ford-torino
+MPG:18/Cyl:6/Dis:232/HP:100/Lbs:3288/ACC:15.5/Year:71/Car:amc-matador 
+MPG:14/Cyl:8/Dis:350/HP:165/Lbs:4209/ACC:12/Year:71/Car:chevrolet-impala 
+MPG:14/Cyl:8/Dis:400/HP:175/Lbs:4464/ACC:11.5/Year:71/Car:pontiac-catalina
+MPG:14/Cyl:8/Dis:351/HP:153/Lbs:4154/ACC:13.5/Year:71/Car:ford-galaxie
+MPG:14/Cyl:8/Dis:318/HP:150/Lbs:4096/ACC:13/Year:71/Car:plymouth-fury
+MPG:12/Cyl:8/Dis:383/HP:180/Lbs:4955/ACC:11.5/Year:71/Car:dodge-monaco
+MPG:13/Cyl:8/Dis:400/HP:170/Lbs:4746/ACC:12/Year:71/Car:ford-country
+MPG:13/Cyl:8/Dis:400/HP:175/Lbs:5140/ACC:12/Year:71/Car:pontiac-safari
+MPG:18/Cyl:6/Dis:258/HP:110/Lbs:2962/ACC:13.5/Year:71/Car:amc-hornet
+MPG:22/Cyl:4/Dis:140/HP:72/Lbs:2408/ACC:19/Year:71/Car:chevrolet-vega
+MPG:19/Cyl:6/Dis:250/HP:100/Lbs:3282/ACC:15/Year:71/Car:pontiac-firebird 
+MPG:18/Cyl:6/Dis:250/HP:88/Lbs:3139/ACC:14.5/Year:71/Car:ford-mustang 
+MPG:23/Cyl:4/Dis:122/HP:86/Lbs:2220/ACC:14/Year:71/Car:mercury-capri
+MPG:28/Cyl:4/Dis:116/HP:90/Lbs:2123/ACC:14/Year:71/Car:opel-1900
+MPG:30/Cyl:4/Dis:79/HP:70/Lbs:2074/ACC:19.5/Year:71/Car:peugeot-304
+MPG:30/Cyl:4/Dis:88/HP:76/Lbs:2065/ACC:14.5/Year:71/Car:fiat-124b 
+MPG:31/Cyl:4/Dis:71/HP:65/Lbs:1773/ACC:19/Year:71/Car:toyota-corolla
+MPG:35/Cyl:4/Dis:72/HP:69/Lbs:1613/ACC:18/Year:71/Car:datsun-1200
+MPG:27/Cyl:4/Dis:97/HP:60/Lbs:1834/ACC:19/Year:71/Car:volkswagen-model
+MPG:26/Cyl:4/Dis:91/HP:70/Lbs:1955/ACC:20.5/Year:71/Car:plymouth-cricket 
+MPG:24/Cyl:4/Dis:113/HP:95/Lbs:2278/ACC:15.5/Year:72/Car:toyota-corona
+MPG:25/Cyl:4/Dis:97.5/HP:80/Lbs:2126/ACC:17/Year:72/Car:dodge-colt
+MPG:23/Cyl:4/Dis:97/HP:54/Lbs:2254/ACC:23.5/Year:72/Car:volkswagen-type
+MPG:20/Cyl:4/Dis:140/HP:90/Lbs:2408/ACC:19.5/Year:72/Car:chevrolet-vega 
+MPG:21/Cyl:4/Dis:122/HP:86/Lbs:2226/ACC:16.5/Year:72/Car:ford-pinto
+MPG:13/Cyl:8/Dis:350/HP:165/Lbs:4274/ACC:12/Year:72/Car:chevrolet-impala 
+MPG:14/Cyl:8/Dis:400/HP:175/Lbs:4385/ACC:12/Year:72/Car:pontiac-catalina 
+MPG:15/Cyl:8/Dis:318/HP:150/Lbs:4135/ACC:13.5/Year:72/Car:plymouth-fury
+MPG:14/Cyl:8/Dis:351/HP:153/Lbs:4129/ACC:13/Year:72/Car:ford-galaxie
+MPG:17/Cyl:8/Dis:304/HP:150/Lbs:3672/ACC:11.5/Year:72/Car:amc-ambassador
+MPG:11/Cyl:8/Dis:429/HP:208/Lbs:4633/ACC:11/Year:72/Car:mercury-marquis 
+MPG:13/Cyl:8/Dis:350/HP:155/Lbs:4502/ACC:13.5/Year:72/Car:buick-lesabre
+MPG:12/Cyl:8/Dis:350/HP:160/Lbs:4456/ACC:13.5/Year:72/Car:oldsmobile-delta
+MPG:13/Cyl:8/Dis:400/HP:190/Lbs:4422/ACC:12.5/Year:72/Car:chrysler-newport
+MPG:19/Cyl:3/Dis:70/HP:97/Lbs:2330/ACC:13.5/Year:72/Car:mazda-rx2
+MPG:15/Cyl:8/Dis:304/HP:150/Lbs:3892/ACC:12.5/Year:72/Car:amc-matador
+MPG:13/Cyl:8/Dis:307/HP:130/Lbs:4098/ACC:14/Year:72/Car:chevrolet-chevelle
+MPG:13/Cyl:8/Dis:302/HP:140/Lbs:4294/ACC:16/Year:72/Car:ford-gran
+MPG:14/Cyl:8/Dis:318/HP:150/Lbs:4077/ACC:14/Year:72/Car:plymouth-satellite
+MPG:18/Cyl:4/Dis:121/HP:112/Lbs:2933/ACC:14.5/Year:72/Car:volvo-145e
+MPG:22/Cyl:4/Dis:121/HP:76/Lbs:2511/ACC:18/Year:72/Car:volkswagen-411
+MPG:21/Cyl:4/Dis:120/HP:87/Lbs:2979/ACC:19.5/Year:72/Car:peugeot-504
+MPG:26/Cyl:4/Dis:96/HP:69/Lbs:2189/ACC:18/Year:72/Car:renault-12
+MPG:22/Cyl:4/Dis:122/HP:86/Lbs:2395/ACC:16/Year:72/Car:ford-pinto
+MPG:28/Cyl:4/Dis:97/HP:92/Lbs:2288/ACC:17/Year:72/Car:datsun-510
+MPG:23/Cyl:4/Dis:120/HP:97/Lbs:2506/ACC:14.5/Year:72/Car:toyouta-corona
+MPG:28/Cyl:4/Dis:98/HP:80/Lbs:2164/ACC:15/Year:72/Car:dodge-colt
+MPG:27/Cyl:4/Dis:97/HP:88/Lbs:2100/ACC:16.5/Year:72/Car:toyota-corolla
+MPG:13/Cyl:8/Dis:350/HP:175/Lbs:4100/ACC:13/Year:73/Car:buick-century
+MPG:14/Cyl:8/Dis:304/HP:150/Lbs:3672/ACC:11.5/Year:73/Car:amc-matador 
+MPG:13/Cyl:8/Dis:350/HP:145/Lbs:3988/ACC:13/Year:73/Car:chevrolet-malibu 
+MPG:14/Cyl:8/Dis:302/HP:137/Lbs:4042/ACC:14.5/Year:73/Car:ford-gran
+MPG:15/Cyl:8/Dis:318/HP:150/Lbs:3777/ACC:12.5/Year:73/Car:dodge-coronet
+MPG:12/Cyl:8/Dis:429/HP:198/Lbs:4952/ACC:11.5/Year:73/Car:mercury-marquis
+MPG:13/Cyl:8/Dis:400/HP:150/Lbs:4464/ACC:12/Year:73/Car:chevrolet-caprice
+MPG:13/Cyl:8/Dis:351/HP:158/Lbs:4363/ACC:13/Year:73/Car:ford-ltd 
+MPG:14/Cyl:8/Dis:318/HP:150/Lbs:4237/ACC:14.5/Year:73/Car:plymouth-fury
+MPG:13/Cyl:8/Dis:440/HP:215/Lbs:4735/ACC:11/Year:73/Car:chrysler-new
+MPG:12/Cyl:8/Dis:455/HP:225/Lbs:4951/ACC:11/Year:73/Car:buick-electra
+MPG:13/Cyl:8/Dis:360/HP:175/Lbs:3821/ACC:11/Year:73/Car:amc-ambassador
+MPG:18/Cyl:6/Dis:225/HP:105/Lbs:3121/ACC:16.5/Year:73/Car:plymouth-valiant 
+MPG:16/Cyl:6/Dis:250/HP:100/Lbs:3278/ACC:18/Year:73/Car:chevrolet-nova
+MPG:18/Cyl:6/Dis:232/HP:100/Lbs:2945/ACC:16/Year:73/Car:amc-hornet 
+MPG:18/Cyl:6/Dis:250/HP:88/Lbs:3021/ACC:16.5/Year:73/Car:ford-maverick 
+MPG:23/Cyl:6/Dis:198/HP:95/Lbs:2904/ACC:16/Year:73/Car:plymouth-duster 
+MPG:26/Cyl:4/Dis:97/HP:46/Lbs:1950/ACC:21/Year:73/Car:volkswagen-super
+MPG:11/Cyl:8/Dis:400/HP:150/Lbs:4997/ACC:14/Year:73/Car:chevrolet-impala 
+MPG:12/Cyl:8/Dis:400/HP:167/Lbs:4906/ACC:12.5/Year:73/Car:ford-country 
+MPG:13/Cyl:8/Dis:360/HP:170/Lbs:4654/ACC:13/Year:73/Car:plymouth-custom
+MPG:12/Cyl:8/Dis:350/HP:180/Lbs:4499/ACC:12.5/Year:73/Car:oldsmobile-vista
+MPG:18/Cyl:6/Dis:232/HP:100/Lbs:2789/ACC:15/Year:73/Car:amc-gremlin 
+MPG:20/Cyl:4/Dis:97/HP:88/Lbs:2279/ACC:19/Year:73/Car:toyota-carina 
+MPG:21/Cyl:4/Dis:140/HP:72/Lbs:2401/ACC:19.5/Year:73/Car:chevrolet-vega 
+MPG:22/Cyl:4/Dis:108/HP:94/Lbs:2379/ACC:16.5/Year:73/Car:datsun-610
+MPG:18/Cyl:3/Dis:70/HP:90/Lbs:2124/ACC:13.5/Year:73/Car:maxda-rx3 
+MPG:19/Cyl:4/Dis:122/HP:85/Lbs:2310/ACC:18.5/Year:73/Car:ford-pinto 
+MPG:21/Cyl:6/Dis:155/HP:107/Lbs:2472/ACC:14/Year:73/Car:mercury-capri
+MPG:26/Cyl:4/Dis:98/HP:90/Lbs:2265/ACC:15.5/Year:73/Car:fiat-124
+MPG:15/Cyl:8/Dis:350/HP:145/Lbs:4082/ACC:13/Year:73/Car:chevrolet-monte
+MPG:16/Cyl:8/Dis:400/HP:230/Lbs:4278/ACC:9.5/Year:73/Car:pontiac-grand
+MPG:29/Cyl:4/Dis:68/HP:49/Lbs:1867/ACC:19.5/Year:73/Car:fiat-128
+MPG:24/Cyl:4/Dis:116/HP:75/Lbs:2158/ACC:15.5/Year:73/Car:opel-manta 
+MPG:20/Cyl:4/Dis:114/HP:91/Lbs:2582/ACC:14/Year:73/Car:audi-100ls 
+MPG:19/Cyl:4/Dis:121/HP:112/Lbs:2868/ACC:15.5/Year:73/Car:volvo-144ea 
+MPG:15/Cyl:8/Dis:318/HP:150/Lbs:3399/ACC:11/Year:73/Car:dodge-dart
+MPG:24/Cyl:4/Dis:121/HP:110/Lbs:2660/ACC:14/Year:73/Car:saab-99le 
+MPG:20/Cyl:6/Dis:156/HP:122/Lbs:2807/ACC:13.5/Year:73/Car:toyota-mark
+MPG:11/Cyl:8/Dis:350/HP:180/Lbs:3664/ACC:11/Year:73/Car:oldsmobile-omega 
+MPG:20/Cyl:6/Dis:198/HP:95/Lbs:3102/ACC:16.5/Year:74/Car:plymouth-duster 
+MPG:21/Cyl:6/Dis:200/HP:0/Lbs:2875/ACC:17/Year:74/Car:ford-maverick 
+MPG:19/Cyl:6/Dis:232/HP:100/Lbs:2901/ACC:16/Year:74/Car:amc-hornet 
+MPG:15/Cyl:6/Dis:250/HP:100/Lbs:3336/ACC:17/Year:74/Car:chevrolet-nova 
+MPG:31/Cyl:4/Dis:79/HP:67/Lbs:1950/ACC:19/Year:74/Car:datsun-b210 
+MPG:26/Cyl:4/Dis:122/HP:80/Lbs:2451/ACC:16.5/Year:74/Car:ford-pinto 
+MPG:32/Cyl:4/Dis:71/HP:65/Lbs:1836/ACC:21/Year:74/Car:toyota-corolla
+MPG:25/Cyl:4/Dis:140/HP:75/Lbs:2542/ACC:17/Year:74/Car:chevrolet-vega 
+MPG:16/Cyl:6/Dis:250/HP:100/Lbs:3781/ACC:17/Year:74/Car:chevrolet-chevelle
+MPG:16/Cyl:6/Dis:258/HP:110/Lbs:3632/ACC:18/Year:74/Car:amc-matador 
+MPG:18/Cyl:6/Dis:225/HP:105/Lbs:3613/ACC:16.5/Year:74/Car:plymouth-satellite
+MPG:16/Cyl:8/Dis:302/HP:140/Lbs:4141/ACC:14/Year:74/Car:ford-gran
+MPG:13/Cyl:8/Dis:350/HP:150/Lbs:4699/ACC:14.5/Year:74/Car:buick-century
+MPG:14/Cyl:8/Dis:318/HP:150/Lbs:4457/ACC:13.5/Year:74/Car:dodge-coronet
+MPG:14/Cyl:8/Dis:302/HP:140/Lbs:4638/ACC:16/Year:74/Car:ford-gran
+MPG:14/Cyl:8/Dis:304/HP:150/Lbs:4257/ACC:15.5/Year:74/Car:amc-matador
+MPG:29/Cyl:4/Dis:98/HP:83/Lbs:2219/ACC:16.5/Year:74/Car:audi-fox 
+MPG:26/Cyl:4/Dis:79/HP:67/Lbs:1963/ACC:15.5/Year:74/Car:volkswagen-dasher 
+MPG:26/Cyl:4/Dis:97/HP:78/Lbs:2300/ACC:14.5/Year:74/Car:opel-manta 
+MPG:31/Cyl:4/Dis:76/HP:52/Lbs:1649/ACC:16.5/Year:74/Car:toyota-corona 
+MPG:32/Cyl:4/Dis:83/HP:61/Lbs:2003/ACC:19/Year:74/Car:datsun-710
+MPG:28/Cyl:4/Dis:90/HP:75/Lbs:2125/ACC:14.5/Year:74/Car:dodge-colt 
+MPG:24/Cyl:4/Dis:90/HP:75/Lbs:2108/ACC:15.5/Year:74/Car:fiat-128
+MPG:26/Cyl:4/Dis:116/HP:75/Lbs:2246/ACC:14/Year:74/Car:fiat-124
+MPG:24/Cyl:4/Dis:120/HP:97/Lbs:2489/ACC:15/Year:74/Car:honda-civic 
+MPG:26/Cyl:4/Dis:108/HP:93/Lbs:2391/ACC:15.5/Year:74/Car:subaru -
+MPG:31/Cyl:4/Dis:79/HP:67/Lbs:2000/ACC:16/Year:74/Car:fiat-x1.9 
+MPG:19/Cyl:6/Dis:225/HP:95/Lbs:3264/ACC:16/Year:75/Car:plymouth-valiant
+MPG:18/Cyl:6/Dis:250/HP:105/Lbs:3459/ACC:16/Year:75/Car:chevrolet-nova 
+MPG:15/Cyl:6/Dis:250/HP:72/Lbs:3432/ACC:21/Year:75/Car:mercury-monarch 
+MPG:15/Cyl:6/Dis:250/HP:72/Lbs:3158/ACC:19.5/Year:75/Car:ford-maverick 
+MPG:16/Cyl:8/Dis:400/HP:170/Lbs:4668/ACC:11.5/Year:75/Car:pontiac-catalina 
+MPG:15/Cyl:8/Dis:350/HP:145/Lbs:4440/ACC:14/Year:75/Car:chevrolet-bel
+MPG:16/Cyl:8/Dis:318/HP:150/Lbs:4498/ACC:14.5/Year:75/Car:plymouth-grand
+MPG:14/Cyl:8/Dis:351/HP:148/Lbs:4657/ACC:13.5/Year:75/Car:ford-ltd 
+MPG:17/Cyl:6/Dis:231/HP:110/Lbs:3907/ACC:21/Year:75/Car:buick-century 
+MPG:16/Cyl:6/Dis:250/HP:105/Lbs:3897/ACC:18.5/Year:75/Car:chevroelt-chevelle
+MPG:15/Cyl:6/Dis:258/HP:110/Lbs:3730/ACC:19/Year:75/Car:amc-matador 
+MPG:18/Cyl:6/Dis:225/HP:95/Lbs:3785/ACC:19/Year:75/Car:plymouth-fury 
+MPG:21/Cyl:6/Dis:231/HP:110/Lbs:3039/ACC:15/Year:75/Car:buick-skyhawk 
+MPG:20/Cyl:8/Dis:262/HP:110/Lbs:3221/ACC:13.5/Year:75/Car:chevrolet-monza
+MPG:13/Cyl:8/Dis:302/HP:129/Lbs:3169/ACC:12/Year:75/Car:ford-mustang
+MPG:29/Cyl:4/Dis:97/HP:75/Lbs:2171/ACC:16/Year:75/Car:toyota-corolla 
+MPG:23/Cyl:4/Dis:140/HP:83/Lbs:2639/ACC:17/Year:75/Car:ford-pinto 
+MPG:20/Cyl:6/Dis:232/HP:100/Lbs:2914/ACC:16/Year:75/Car:amc-gremlin 
+MPG:23/Cyl:4/Dis:140/HP:78/Lbs:2592/ACC:18.5/Year:75/Car:pontiac-astro 
+MPG:24/Cyl:4/Dis:134/HP:96/Lbs:2702/ACC:13.5/Year:75/Car:toyota-corona 
+MPG:25/Cyl:4/Dis:90/HP:71/Lbs:2223/ACC:16.5/Year:75/Car:volkswagen-dasher 
+MPG:24/Cyl:4/Dis:119/HP:97/Lbs:2545/ACC:17/Year:75/Car:datsun-710
+MPG:18/Cyl:6/Dis:171/HP:97/Lbs:2984/ACC:14.5/Year:75/Car:ford-pinto 
+MPG:29/Cyl:4/Dis:90/HP:70/Lbs:1937/ACC:14/Year:75/Car:volkswagen-rabbit 
+MPG:19/Cyl:6/Dis:232/HP:90/Lbs:3211/ACC:17/Year:75/Car:amc-pacer 
+MPG:23/Cyl:4/Dis:115/HP:95/Lbs:2694/ACC:15/Year:75/Car:audi-100ls 
+MPG:23/Cyl:4/Dis:120/HP:88/Lbs:2957/ACC:17/Year:75/Car:peugeot-504
+MPG:22/Cyl:4/Dis:121/HP:98/Lbs:2945/ACC:14.5/Year:75/Car:volvo-244dl 
+MPG:25/Cyl:4/Dis:121/HP:115/Lbs:2671/ACC:13.5/Year:75/Car:saab-99le 
+MPG:33/Cyl:4/Dis:91/HP:53/Lbs:1795/ACC:17.5/Year:75/Car:honda-civic
+MPG:28/Cyl:4/Dis:107/HP:86/Lbs:2464/ACC:15.5/Year:76/Car:fiat-131
+MPG:25/Cyl:4/Dis:116/HP:81/Lbs:2220/ACC:16.9/Year:76/Car:opel-1900
+MPG:25/Cyl:4/Dis:140/HP:92/Lbs:2572/ACC:14.9/Year:76/Car:capri-ii 
+MPG:26/Cyl:4/Dis:98/HP:79/Lbs:2255/ACC:17.7/Year:76/Car:dodge-colt 
+MPG:27/Cyl:4/Dis:101/HP:83/Lbs:2202/ACC:15.3/Year:76/Car:renault-12tl 
+MPG:17/Cyl:8/Dis:305/HP:140/Lbs:4215/ACC:13/Year:76/Car:chevrolet-chevelle
+MPG:16/Cyl:8/Dis:318/HP:150/Lbs:4190/ACC:13/Year:76/Car:dodge-coronet
+MPG:15/Cyl:8/Dis:304/HP:120/Lbs:3962/ACC:13.9/Year:76/Car:amc-matador 
+MPG:14/Cyl:8/Dis:351/HP:152/Lbs:4215/ACC:12.8/Year:76/Car:ford-gran
+MPG:22/Cyl:6/Dis:225/HP:100/Lbs:3233/ACC:15.4/Year:76/Car:plymouth-valiant 
+MPG:22/Cyl:6/Dis:250/HP:105/Lbs:3353/ACC:14.5/Year:76/Car:chevrolet-nova 
+MPG:24/Cyl:6/Dis:200/HP:81/Lbs:3012/ACC:17.6/Year:76/Car:ford-maverick 
+MPG:22/Cyl:6/Dis:232/HP:90/Lbs:3085/ACC:17.6/Year:76/Car:amc-hornet 
+MPG:29/Cyl:4/Dis:85/HP:52/Lbs:2035/ACC:22.2/Year:76/Car:chevrolet-chevette 
+MPG:24/Cyl:4/Dis:98/HP:60/Lbs:2164/ACC:22.1/Year:76/Car:chevrolet-woody 
+MPG:29/Cyl:4/Dis:90/HP:70/Lbs:1937/ACC:14.2/Year:76/Car:vw-rabbit 
+MPG:33/Cyl:4/Dis:91/HP:53/Lbs:1795/ACC:17.4/Year:76/Car:honda-civic 
+MPG:20/Cyl:6/Dis:225/HP:100/Lbs:3651/ACC:17.7/Year:76/Car:dodge-aspen
+MPG:18/Cyl:6/Dis:250/HP:78/Lbs:3574/ACC:21/Year:76/Car:ford-granada
+MPG:18/Cyl:6/Dis:250/HP:110/Lbs:3645/ACC:16.2/Year:76/Car:pontiac-ventura
+MPG:17/Cyl:6/Dis:258/HP:95/Lbs:3193/ACC:17.8/Year:76/Car:amc-pacer
+MPG:29/Cyl:4/Dis:97/HP:71/Lbs:1825/ACC:12.2/Year:76/Car:volkswagen-rabbit 
+MPG:32/Cyl:4/Dis:85/HP:70/Lbs:1990/ACC:17/Year:76/Car:datsun-b-210 
+MPG:28/Cyl:4/Dis:97/HP:75/Lbs:2155/ACC:16.4/Year:76/Car:toyota-corolla 
+MPG:26/Cyl:4/Dis:140/HP:72/Lbs:2565/ACC:13.6/Year:76/Car:ford-pinto 
+MPG:20/Cyl:4/Dis:130/HP:102/Lbs:3150/ACC:15.7/Year:76/Car:volvo-245
+MPG:13/Cyl:8/Dis:318/HP:150/Lbs:3940/ACC:13.2/Year:76/Car:plymouth-volare
+MPG:19/Cyl:4/Dis:120/HP:88/Lbs:3270/ACC:21.9/Year:76/Car:peugeot-504
+MPG:19/Cyl:6/Dis:156/HP:108/Lbs:2930/ACC:15.5/Year:76/Car:toyota-mark
+MPG:16/Cyl:6/Dis:168/HP:120/Lbs:3820/ACC:16.7/Year:76/Car:mercedes-benz-280s 
+MPG:16/Cyl:8/Dis:350/HP:180/Lbs:4380/ACC:12.1/Year:76/Car:cadillac-seville 
+MPG:13/Cyl:8/Dis:350/HP:145/Lbs:4055/ACC:12/Year:76/Car:chevy-c10 
+MPG:13/Cyl:8/Dis:302/HP:130/Lbs:3870/ACC:15/Year:76/Car:ford-f108 
+MPG:13/Cyl:8/Dis:318/HP:150/Lbs:3755/ACC:14/Year:76/Car:dodge-d100 
+MPG:31/Cyl:4/Dis:98/HP:68/Lbs:2045/ACC:18.5/Year:77/Car:honda-accord
+MPG:30/Cyl:4/Dis:111/HP:80/Lbs:2155/ACC:14.8/Year:77/Car:buick-opel
+MPG:36/Cyl:4/Dis:79/HP:58/Lbs:1825/ACC:18.6/Year:77/Car:renault-5
+MPG:25/Cyl:4/Dis:122/HP:96/Lbs:2300/ACC:15.5/Year:77/Car:plymouth-arrow
+MPG:33/Cyl:4/Dis:85/HP:70/Lbs:1945/ACC:16.8/Year:77/Car:datsun-f-10
+MPG:17/Cyl:8/Dis:305/HP:145/Lbs:3880/ACC:12.5/Year:77/Car:chevrolet-caprice
+MPG:17/Cyl:8/Dis:260/HP:110/Lbs:4060/ACC:19/Year:77/Car:oldsmobile-cutlass
+MPG:15/Cyl:8/Dis:318/HP:145/Lbs:4140/ACC:13.7/Year:77/Car:dodge-monaco
+MPG:15/Cyl:8/Dis:302/HP:130/Lbs:4295/ACC:14.9/Year:77/Car:mercury-cougar
+MPG:17/Cyl:6/Dis:250/HP:110/Lbs:3520/ACC:16.4/Year:77/Car:chevrolet-concours 
+MPG:20/Cyl:6/Dis:231/HP:105/Lbs:3425/ACC:16.9/Year:77/Car:buick-skylark 
+MPG:19/Cyl:6/Dis:225/HP:100/Lbs:3630/ACC:17.7/Year:77/Car:plymouth-volare
+MPG:18/Cyl:6/Dis:250/HP:98/Lbs:3525/ACC:19/Year:77/Car:ford-granada 
+MPG:16/Cyl:8/Dis:400/HP:180/Lbs:4220/ACC:11.1/Year:77/Car:pontiac-grand
+MPG:15/Cyl:8/Dis:350/HP:170/Lbs:4165/ACC:11.4/Year:77/Car:chevrolet-monte
+MPG:15/Cyl:8/Dis:400/HP:190/Lbs:4325/ACC:12.2/Year:77/Car:chrysler-cordoba 
+MPG:16/Cyl:8/Dis:351/HP:149/Lbs:4335/ACC:14.5/Year:77/Car:ford-thunderbird 
+MPG:29/Cyl:4/Dis:97/HP:78/Lbs:1940/ACC:14.5/Year:77/Car:volkswagen-rabbit
+MPG:24/Cyl:4/Dis:151/HP:88/Lbs:2740/ACC:16/Year:77/Car:pontiac-sunbird
+MPG:26/Cyl:4/Dis:97/HP:75/Lbs:2265/ACC:18.2/Year:77/Car:toyota-corolla
+MPG:25/Cyl:4/Dis:140/HP:89/Lbs:2755/ACC:15.8/Year:77/Car:ford-mustang
+MPG:30/Cyl:4/Dis:98/HP:63/Lbs:2051/ACC:17/Year:77/Car:chevrolet-chevette 
+MPG:33/Cyl:4/Dis:98/HP:83/Lbs:2075/ACC:15.9/Year:77/Car:dodge-colt
+MPG:30/Cyl:4/Dis:97/HP:67/Lbs:1985/ACC:16.4/Year:77/Car:subaru-dl 
+MPG:30/Cyl:4/Dis:97/HP:78/Lbs:2190/ACC:14.1/Year:77/Car:volkswagen-dasher 
+MPG:22/Cyl:6/Dis:146/HP:97/Lbs:2815/ACC:14.5/Year:77/Car:datsun-810
+MPG:21/Cyl:4/Dis:121/HP:110/Lbs:2600/ACC:12.8/Year:77/Car:bmw-320i 
+MPG:21/Cyl:3/Dis:80/HP:110/Lbs:2720/ACC:13.5/Year:77/Car:mazda-rx-4 
+MPG:43/Cyl:4/Dis:90/HP:48/Lbs:1985/ACC:21.5/Year:78/Car:volkswagen-rabbit
+MPG:36/Cyl:4/Dis:98/HP:66/Lbs:1800/ACC:14.4/Year:78/Car:ford-fiesta 
+MPG:32/Cyl:4/Dis:78/HP:52/Lbs:1985/ACC:19.4/Year:78/Car:mazda-glc
+MPG:39/Cyl:4/Dis:85/HP:70/Lbs:2070/ACC:18.6/Year:78/Car:datsun-b210
+MPG:36/Cyl:4/Dis:91/HP:60/Lbs:1800/ACC:16.4/Year:78/Car:honda-civic
+MPG:19/Cyl:8/Dis:260/HP:110/Lbs:3365/ACC:15.5/Year:78/Car:oldsmobile-cutlass
+MPG:19/Cyl:8/Dis:318/HP:140/Lbs:3735/ACC:13.2/Year:78/Car:dodge-diplomat 
+MPG:20/Cyl:8/Dis:302/HP:139/Lbs:3570/ACC:12.8/Year:78/Car:mercury-monarch
+MPG:19/Cyl:6/Dis:231/HP:105/Lbs:3535/ACC:19.2/Year:78/Car:pontiac-phoenix
+MPG:20/Cyl:6/Dis:200/HP:95/Lbs:3155/ACC:18.2/Year:78/Car:chevrolet-malibu 
+MPG:20/Cyl:6/Dis:200/HP:85/Lbs:2965/ACC:15.8/Year:78/Car:ford-fairmont
+MPG:25/Cyl:4/Dis:140/HP:88/Lbs:2720/ACC:15.4/Year:78/Car:ford-fairmont
+MPG:20/Cyl:6/Dis:225/HP:100/Lbs:3430/ACC:17.2/Year:78/Car:plymouth-volare 
+MPG:19/Cyl:6/Dis:232/HP:90/Lbs:3210/ACC:17.2/Year:78/Car:amc-concord 
+MPG:20/Cyl:6/Dis:231/HP:105/Lbs:3380/ACC:15.8/Year:78/Car:buick-century
+MPG:20/Cyl:6/Dis:200/HP:85/Lbs:3070/ACC:16.7/Year:78/Car:mercury-zephyr 
+MPG:18/Cyl:6/Dis:225/HP:110/Lbs:3620/ACC:18.7/Year:78/Car:dodge-aspen 
+MPG:18/Cyl:6/Dis:258/HP:120/Lbs:3410/ACC:15.1/Year:78/Car:amc-concord
+MPG:19/Cyl:8/Dis:305/HP:145/Lbs:3425/ACC:13.2/Year:78/Car:chevrolet-monte
+MPG:17/Cyl:6/Dis:231/HP:165/Lbs:3445/ACC:13.4/Year:78/Car:buick-regal
+MPG:18/Cyl:8/Dis:302/HP:139/Lbs:3205/ACC:11.2/Year:78/Car:ford-futura 
+MPG:17/Cyl:8/Dis:318/HP:140/Lbs:4080/ACC:13.7/Year:78/Car:dodge-magnum
+MPG:30/Cyl:4/Dis:98/HP:68/Lbs:2155/ACC:16.5/Year:78/Car:chevrolet-chevette 
+MPG:27/Cyl:4/Dis:134/HP:95/Lbs:2560/ACC:14.2/Year:78/Car:toyota-corona 
+MPG:27/Cyl:4/Dis:119/HP:97/Lbs:2300/ACC:14.7/Year:78/Car:datsun-510
+MPG:30/Cyl:4/Dis:105/HP:75/Lbs:2230/ACC:14.5/Year:78/Car:dodge-omni 
+MPG:21/Cyl:4/Dis:134/HP:95/Lbs:2515/ACC:14.8/Year:78/Car:toyota-celica
+MPG:23/Cyl:4/Dis:156/HP:105/Lbs:2745/ACC:16.7/Year:78/Car:plymouth-sapporo 
+MPG:23/Cyl:4/Dis:151/HP:85/Lbs:2855/ACC:17.6/Year:78/Car:oldsmobile-starfire
+MPG:23/Cyl:4/Dis:119/HP:97/Lbs:2405/ACC:14.9/Year:78/Car:datsun-200-sx 
+MPG:20/Cyl:5/Dis:131/HP:103/Lbs:2830/ACC:15.9/Year:78/Car:audi-5000
+MPG:17/Cyl:6/Dis:163/HP:125/Lbs:3140/ACC:13.6/Year:78/Car:volvo-264gl 
+MPG:21/Cyl:4/Dis:121/HP:115/Lbs:2795/ACC:15.7/Year:78/Car:saab-99gle 
+MPG:16/Cyl:6/Dis:163/HP:133/Lbs:3410/ACC:15.8/Year:78/Car:peugeot-604sl 
+MPG:31/Cyl:4/Dis:89/HP:71/Lbs:1990/ACC:14.9/Year:78/Car:volkswagen-scirocco 
+MPG:29/Cyl:4/Dis:98/HP:68/Lbs:2135/ACC:16.6/Year:78/Car:honda-accord
+MPG:21/Cyl:6/Dis:231/HP:115/Lbs:3245/ACC:15.4/Year:79/Car:pontiac-lemans
+MPG:19/Cyl:6/Dis:200/HP:85/Lbs:2990/ACC:18.2/Year:79/Car:mercury-zephyr
+MPG:22/Cyl:4/Dis:140/HP:88/Lbs:2890/ACC:17.3/Year:79/Car:ford-fairmont
+MPG:20/Cyl:6/Dis:232/HP:90/Lbs:3265/ACC:18.2/Year:79/Car:amc-concord
+MPG:20/Cyl:6/Dis:225/HP:110/Lbs:3360/ACC:16.6/Year:79/Car:dodge-aspen
+MPG:17/Cyl:8/Dis:305/HP:130/Lbs:3840/ACC:15.4/Year:79/Car:chevrolet-caprice
+MPG:17/Cyl:8/Dis:302/HP:129/Lbs:3725/ACC:13.4/Year:79/Car:ford-ltd
+MPG:16/Cyl:8/Dis:351/HP:138/Lbs:3955/ACC:13.2/Year:79/Car:mercury-grand
+MPG:18/Cyl:8/Dis:318/HP:135/Lbs:3830/ACC:15.2/Year:79/Car:dodge-st.
+MPG:16/Cyl:8/Dis:350/HP:155/Lbs:4360/ACC:14.9/Year:79/Car:buick-estate
+MPG:15/Cyl:8/Dis:351/HP:142/Lbs:4054/ACC:14.3/Year:79/Car:ford-country
+MPG:19/Cyl:8/Dis:267/HP:125/Lbs:3605/ACC:15/Year:79/Car:chevrolet-malibu
+MPG:18/Cyl:8/Dis:360/HP:150/Lbs:3940/ACC:13/Year:79/Car:chrysler-lebaron
+MPG:31/Cyl:4/Dis:89/HP:71/Lbs:1925/ACC:14/Year:79/Car:vw-rabbit
+MPG:34/Cyl:4/Dis:86/HP:65/Lbs:1975/ACC:15.2/Year:79/Car:maxda-glc
+MPG:35/Cyl:4/Dis:98/HP:80/Lbs:1915/ACC:14.4/Year:79/Car:dodge-colt
+MPG:27/Cyl:4/Dis:121/HP:80/Lbs:2670/ACC:15/Year:79/Car:amc-spirit
+MPG:25/Cyl:5/Dis:183/HP:77/Lbs:3530/ACC:20.1/Year:79/Car:mercedes-benz
+MPG:23/Cyl:8/Dis:350/HP:125/Lbs:3900/ACC:17.4/Year:79/Car:cadillac-eldorado 
+MPG:27/Cyl:4/Dis:141/HP:71/Lbs:3190/ACC:24.8/Year:79/Car:peugeot-504
+MPG:23/Cyl:8/Dis:260/HP:90/Lbs:3420/ACC:22.2/Year:79/Car:oldsmobile-cutlass
+MPG:34/Cyl:4/Dis:105/HP:70/Lbs:2200/ACC:13.2/Year:79/Car:plymouth-horizon 
+MPG:34/Cyl:4/Dis:105/HP:70/Lbs:2150/ACC:14.9/Year:79/Car:plymouth-horizon
+MPG:31/Cyl:4/Dis:85/HP:65/Lbs:2020/ACC:19.2/Year:79/Car:datsun-210
+MPG:37/Cyl:4/Dis:91/HP:69/Lbs:2130/ACC:14.7/Year:79/Car:fiat-strada
+MPG:28/Cyl:4/Dis:151/HP:90/Lbs:2670/ACC:16/Year:79/Car:buick-skylark
+MPG:28/Cyl:6/Dis:173/HP:115/Lbs:2595/ACC:11.3/Year:79/Car:chevrolet-citation 
+MPG:26/Cyl:6/Dis:173/HP:115/Lbs:2700/ACC:12.9/Year:79/Car:oldsmobile-omega
+MPG:33/Cyl:4/Dis:151/HP:90/Lbs:2556/ACC:13.2/Year:79/Car:pontiac-phoenix 
+MPG:41/Cyl:4/Dis:98/HP:76/Lbs:2144/ACC:14.7/Year:80/Car:vw-rabbit 
+MPG:38/Cyl:4/Dis:89/HP:60/Lbs:1968/ACC:18.8/Year:80/Car:toyota-corolla
+MPG:32/Cyl:4/Dis:98/HP:70/Lbs:2120/ACC:15.5/Year:80/Car:chevrolet-chevette 
+MPG:37/Cyl:4/Dis:86/HP:65/Lbs:2019/ACC:16.4/Year:80/Car:datsun-310
+MPG:28/Cyl:4/Dis:151/HP:90/Lbs:2678/ACC:16.5/Year:80/Car:chevrolet-citation 
+MPG:26/Cyl:4/Dis:140/HP:88/Lbs:2870/ACC:18.1/Year:80/Car:ford-fairmont 
+MPG:24/Cyl:4/Dis:151/HP:90/Lbs:3003/ACC:20.1/Year:80/Car:amc-concord 
+MPG:19/Cyl:6/Dis:225/HP:90/Lbs:3381/ACC:18.7/Year:80/Car:dodge-aspen 
+MPG:34/Cyl:4/Dis:97/HP:78/Lbs:2188/ACC:15.8/Year:80/Car:audi-4000
+MPG:29/Cyl:4/Dis:134/HP:90/Lbs:2711/ACC:15.5/Year:80/Car:toyota-corona
+MPG:31/Cyl:4/Dis:120/HP:75/Lbs:2542/ACC:17.5/Year:80/Car:mazda-626
+MPG:37/Cyl:4/Dis:119/HP:92/Lbs:2434/ACC:15/Year:80/Car:datsun-510
+MPG:32/Cyl:4/Dis:108/HP:75/Lbs:2265/ACC:15.2/Year:80/Car:toyota-corolla 
+MPG:46/Cyl:4/Dis:86/HP:65/Lbs:2110/ACC:17.9/Year:80/Car:mazda-glc 
+MPG:27/Cyl:4/Dis:156/HP:105/Lbs:2800/ACC:14.4/Year:80/Car:dodge-colt 
+MPG:40/Cyl:4/Dis:85/HP:65/Lbs:2110/ACC:19.2/Year:80/Car:datsun-210
+MPG:44/Cyl:4/Dis:90/HP:48/Lbs:2085/ACC:21.7/Year:80/Car:vw-rabbit
+MPG:43/Cyl:4/Dis:90/HP:48/Lbs:2335/ACC:23.7/Year:80/Car:vw-dasher
+MPG:36/Cyl:5/Dis:121/HP:67/Lbs:2950/ACC:19.9/Year:80/Car:audi-5000s
+MPG:30/Cyl:4/Dis:146/HP:67/Lbs:3250/ACC:21.8/Year:80/Car:mercedes-benz-240d 
+MPG:44/Cyl:4/Dis:91/HP:67/Lbs:1850/ACC:13.8/Year:80/Car:honda-civic
+MPG:40/Cyl:4/Dis:85/HP:0/Lbs:1835/ACC:17.3/Year:80/Car:renault-lecar
+MPG:33/Cyl:4/Dis:97/HP:67/Lbs:2145/ACC:18/Year:80/Car:subaru-dl 
+MPG:29/Cyl:4/Dis:89/HP:62/Lbs:1845/ACC:15.3/Year:80/Car:vokswagen-rabbit 
+MPG:32/Cyl:6/Dis:168/HP:132/Lbs:2910/ACC:11.4/Year:80/Car:datsun-280-zx 
+MPG:23/Cyl:3/Dis:70/HP:100/Lbs:2420/ACC:12.5/Year:80/Car:mazda-rx-7
+MPG:35/Cyl:4/Dis:122/HP:88/Lbs:2500/ACC:15.1/Year:80/Car:triumph-tr7
+MPG:23/Cyl:4/Dis:140/HP:0/Lbs:2905/ACC:14.3/Year:80/Car:ford-mustang
+MPG:32/Cyl:4/Dis:107/HP:72/Lbs:2290/ACC:17/Year:80/Car:honda-accord 
+MPG:27/Cyl:4/Dis:135/HP:84/Lbs:2490/ACC:15.7/Year:81/Car:plymouth-reliant 
+MPG:26/Cyl:4/Dis:151/HP:84/Lbs:2635/ACC:16.4/Year:81/Car:buick-skylark 
+MPG:25/Cyl:4/Dis:156/HP:92/Lbs:2620/ACC:14.4/Year:81/Car:dodge-aries
+MPG:23/Cyl:6/Dis:173/HP:110/Lbs:2725/ACC:12.6/Year:81/Car:chevrolet-citation 
+MPG:30/Cyl:4/Dis:135/HP:84/Lbs:2385/ACC:12.9/Year:81/Car:plymouth-reliant 
+MPG:39/Cyl:4/Dis:79/HP:58/Lbs:1755/ACC:16.9/Year:81/Car:toyota-starlet 
+MPG:39/Cyl:4/Dis:86/HP:64/Lbs:1875/ACC:16.4/Year:81/Car:plymouth-champ 
+MPG:35/Cyl:4/Dis:81/HP:60/Lbs:1760/ACC:16.1/Year:81/Car:honda-civic
+MPG:32/Cyl:4/Dis:97/HP:67/Lbs:2065/ACC:17.8/Year:81/Car:subaru -
+MPG:37/Cyl:4/Dis:85/HP:65/Lbs:1975/ACC:19.4/Year:81/Car:datsun-210
+MPG:37/Cyl:4/Dis:89/HP:62/Lbs:2050/ACC:17.3/Year:81/Car:toyota-tercel 
+MPG:34/Cyl:4/Dis:91/HP:68/Lbs:1985/ACC:16/Year:81/Car:mazda-glc
+MPG:34/Cyl:4/Dis:105/HP:63/Lbs:2215/ACC:14.9/Year:81/Car:plymouth-horizon
+MPG:34/Cyl:4/Dis:98/HP:65/Lbs:2045/ACC:16.2/Year:81/Car:ford-escort
+MPG:29/Cyl:4/Dis:98/HP:65/Lbs:2380/ACC:20.7/Year:81/Car:ford-escort
+MPG:33/Cyl:4/Dis:105/HP:74/Lbs:2190/ACC:14.2/Year:81/Car:volkswagen-jetta 
+MPG:34/Cyl:4/Dis:100/HP:0/Lbs:2320/ACC:15.8/Year:81/Car:renault-18i 
+MPG:33/Cyl:4/Dis:107/HP:75/Lbs:2210/ACC:14.4/Year:81/Car:honda-prelude 
+MPG:32/Cyl:4/Dis:108/HP:75/Lbs:2350/ACC:16.8/Year:81/Car:toyota-corolla 
+MPG:32/Cyl:4/Dis:119/HP:100/Lbs:2615/ACC:14.8/Year:81/Car:datsun-200sx 
+MPG:31/Cyl:4/Dis:120/HP:74/Lbs:2635/ACC:18.3/Year:81/Car:mazda-626
+MPG:28/Cyl:4/Dis:141/HP:80/Lbs:3230/ACC:20.4/Year:81/Car:peugeot-505s
+MPG:30/Cyl:6/Dis:145/HP:76/Lbs:3160/ACC:19.6/Year:81/Car:volvo-diesel 
+MPG:25/Cyl:6/Dis:168/HP:116/Lbs:2900/ACC:12.6/Year:81/Car:toyota-cressida 
+MPG:24/Cyl:6/Dis:146/HP:120/Lbs:2930/ACC:13.8/Year:81/Car:datsun-810
+MPG:22/Cyl:6/Dis:231/HP:110/Lbs:3415/ACC:15.8/Year:81/Car:buick-century 
+MPG:26/Cyl:8/Dis:350/HP:105/Lbs:3725/ACC:19/Year:81/Car:oldsmobile-cutlass
+MPG:20/Cyl:6/Dis:200/HP:88/Lbs:3060/ACC:17.1/Year:81/Car:ford-granada
+MPG:17/Cyl:6/Dis:225/HP:85/Lbs:3465/ACC:16.6/Year:81/Car:chrysler-lebaron
+MPG:28/Cyl:4/Dis:112/HP:88/Lbs:2605/ACC:19.6/Year:82/Car:chevrolet-cavalier 
+MPG:27/Cyl:4/Dis:112/HP:88/Lbs:2640/ACC:18.6/Year:82/Car:chevrolet-cavalier
+MPG:34/Cyl:4/Dis:112/HP:88/Lbs:2395/ACC:18/Year:82/Car:chevrolet-cavalier
+MPG:31/Cyl:4/Dis:112/HP:85/Lbs:2575/ACC:16.2/Year:82/Car:pontiac-j2000
+MPG:29/Cyl:4/Dis:135/HP:84/Lbs:2525/ACC:16/Year:82/Car:dodge-aries
+MPG:27/Cyl:4/Dis:151/HP:90/Lbs:2735/ACC:18/Year:82/Car:pontiac-phoenix 
+MPG:24/Cyl:4/Dis:140/HP:92/Lbs:2865/ACC:16.4/Year:82/Car:ford-fairmont
+MPG:23/Cyl:4/Dis:151/HP:0/Lbs:3035/ACC:20.5/Year:82/Car:amc-concord
+MPG:36/Cyl:4/Dis:105/HP:74/Lbs:1980/ACC:15.3/Year:82/Car:volkswagen-rabbit
+MPG:37/Cyl:4/Dis:91/HP:68/Lbs:2025/ACC:18.2/Year:82/Car:mazda-glc
+MPG:31/Cyl:4/Dis:91/HP:68/Lbs:1970/ACC:17.6/Year:82/Car:mazda-glc
+MPG:38/Cyl:4/Dis:105/HP:63/Lbs:2125/ACC:14.7/Year:82/Car:plymouth-horizon
+MPG:36/Cyl:4/Dis:98/HP:70/Lbs:2125/ACC:17.3/Year:82/Car:mercury-lynx
+MPG:36/Cyl:4/Dis:120/HP:88/Lbs:2160/ACC:14.5/Year:82/Car:nissan-stanza
+MPG:36/Cyl:4/Dis:107/HP:75/Lbs:2205/ACC:14.5/Year:82/Car:honda-accord 
+MPG:34/Cyl:4/Dis:108/HP:70/Lbs:2245/ACC:16.9/Year:82/Car:toyota-corolla 
+MPG:38/Cyl:4/Dis:91/HP:67/Lbs:1965/ACC:15/Year:82/Car:honda-civic 
+MPG:32/Cyl:4/Dis:91/HP:67/Lbs:1965/ACC:15.7/Year:82/Car:honda-civic
+MPG:38/Cyl:4/Dis:91/HP:67/Lbs:1995/ACC:16.2/Year:82/Car:datsun-310
+MPG:25/Cyl:6/Dis:181/HP:110/Lbs:2945/ACC:16.4/Year:82/Car:buick-century
+MPG:38/Cyl:6/Dis:262/HP:85/Lbs:3015/ACC:17/Year:82/Car:oldsmobile-cutlass
+MPG:26/Cyl:4/Dis:156/HP:92/Lbs:2585/ACC:14.5/Year:82/Car:chrysler-lebaron
+MPG:22/Cyl:6/Dis:232/HP:112/Lbs:2835/ACC:14.7/Year:82/Car:ford-granada
+MPG:32/Cyl:4/Dis:144/HP:96/Lbs:2665/ACC:13.9/Year:82/Car:toyota-celica
+MPG:36/Cyl:4/Dis:135/HP:84/Lbs:2370/ACC:13/Year:82/Car:dodge-charger
+MPG:27/Cyl:4/Dis:151/HP:90/Lbs:2950/ACC:17.3/Year:82/Car:chevrolet-camaro 
+MPG:27/Cyl:4/Dis:140/HP:86/Lbs:2790/ACC:15.6/Year:82/Car:ford-mustang
+MPG:44/Cyl:4/Dis:97/HP:52/Lbs:2130/ACC:24.6/Year:82/Car:vw-pickup 
+MPG:32/Cyl:4/Dis:135/HP:84/Lbs:2295/ACC:11.6/Year:82/Car:dodge-rampage 
+MPG:28/Cyl:4/Dis:120/HP:79/Lbs:2625/ACC:18.6/Year:82/Car:ford-ranger 
+MPG:31/Cyl:4/Dis:119/HP:82/Lbs:2720/ACC:19.4/Year:82/Car:chevy-s-10
